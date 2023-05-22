@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: roboto;
+  color: #ffffff;
+  height: 100vh;
+  text-align: center;
+}
+.btncontainer {
+  display: flex;
+  flex-direction: row;
+}
+.btncontainer1 {
+  display: flex;
+  flex-direction: column;
+}
+.btncontainer2 {
+  display: flex;
+  flex-direction: column;
+}
+.btn {
+  background-color: #fddddb;
+  border-radius: 10px;
+  padding: 5px;
+  color: #dd1264;
+  border-width: 0px;
+  font-weight: bold;
+  margin: 5px;
+}
+.firstnamepara {
+  color: #000000;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fddddb;
+  font-size: 15px;
+}
+.lastnamepara {
+  color: #000000;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fddddb;
+  font-size: 15px;
+}
